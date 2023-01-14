@@ -1,6 +1,6 @@
 <?php
 
-namespace Saeghe\ChuckNorris\Api;
+namespace PhpRepos\ChuckNorris\Api;
 
 function get(string $url): array
 {

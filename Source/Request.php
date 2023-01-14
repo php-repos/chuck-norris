@@ -1,6 +1,6 @@
 <?php
 
-namespace Saeghe\ChuckNorris;
+namespace PhpRepos\ChuckNorris;
 
 class Request
 {

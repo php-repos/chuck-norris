@@ -1,0 +1,20 @@
+{
+    "map": {
+        "PhpRepos\\ChuckNorris": "Source",
+        "Tests": "Tests"
+    },
+    "entry-points": [
+        "Console.php"
+    ],
+    "excludes": [],
+    "executables": [],
+    "packages-directory": "Packages",
+    "packages": {
+        "git@github.com:php-repos\/test-runner.git": "v1.0.0",
+        "git@github.com:php-repos\/file-manager.git": "v1.0.0"
+    },
+    "aliases": {
+        "file-manager": "git@github.com:php-repos\/file-manager.git",
+        "test-runner": "git@github.com:php-repos\/test-runner.git"
+    }
+}
